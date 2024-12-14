@@ -1,0 +1,18 @@
+.show{
+    display: flex;
+}
+.pin{
+    top: 0;
+    
+}
+.ch1{
+    transform: rotate(-45deg);
+    transition: .4s;
+}
+.ch2{
+    display: none;
+}
+.ch3{
+    transform: rotate(45deg);
+    transition: .4s;
+}
