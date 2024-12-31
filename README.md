@@ -5,9 +5,8 @@
 - [Demo Project](https://ermiarzv.github.io/Tagmag/)
 - Developed by Ermia Razavi
 - Created - December 2024
-- 🤖 Technologies Used - Html , css(Tailwind) ,JavaScript
+- 🤖 Technologies Used - Html , Tailwind css ,JavaScript
 - How to reach me : with my
-[instagram](https://www.instagram.com/ermia_razavi.dev) and
 [linkedin](https://www.linkedin.com/in/ermia-razavi-a611312a3/)
 
 ![Tagmag - Google Chrome 12_14_2024 10_10_58 PM](https://github.com/user-attachments/assets/1af3a6b1-b687-4050-b86d-e426a820f880)
